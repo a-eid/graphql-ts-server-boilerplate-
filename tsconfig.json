@@ -9,7 +9,7 @@
     "declaration": false,
     "composite": false,
     "removeComments": true,
-    // "noImplicitAny": true, // for now.
+    "noImplicitAny": true,
     "strictNullChecks": true,
     "strictFunctionTypes": true,
     "noImplicitThis": true,
